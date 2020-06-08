@@ -1,0 +1,2 @@
+# bitWalletView
+View project training
